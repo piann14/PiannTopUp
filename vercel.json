@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "buildCommand": "composer install --no-dev --optimize-autoloader && php artisan config:cache && php artisan view:cache",
+  "outputDirectory": "public",
   "framework": null,
   "builds": [
     {
@@ -20,7 +22,6 @@
     "DB_CONNECTION": "sqlite",
     "CACHE_DRIVER": "array",
     "SESSION_DRIVER": "array",
-    "LOG_CHANNEL": "stderr",
-    "VIEW_COMPILED_PATH": "/tmp"
+    "LOG_CHANNEL": "stderr"
   }
 }

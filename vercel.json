@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "framework": null,
+  "builds": [
+    {
+      "src": "public/index.php",
+      "use": "vercel-php@0.6.0"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/public/index.php"
+    }
+  ],
+  "env": {
+    "APP_ENV": "production",
+    "APP_DEBUG": "false",
+    "APP_URL": "https://piann-topup.vercel.app",
+    "DB_CONNECTION": "sqlite",
+    "CACHE_DRIVER": "file",
+    "SESSION_DRIVER": "file",
+    "LOG_CHANNEL": "stderr"
+  }
+}

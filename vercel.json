@@ -18,8 +18,9 @@
     "APP_DEBUG": "false",
     "APP_URL": "https://piann-topup.vercel.app",
     "DB_CONNECTION": "sqlite",
-    "CACHE_DRIVER": "file",
-    "SESSION_DRIVER": "file",
-    "LOG_CHANNEL": "stderr"
+    "CACHE_DRIVER": "array",
+    "SESSION_DRIVER": "array",
+    "LOG_CHANNEL": "stderr",
+    "VIEW_COMPILED_PATH": "/tmp"
   }
 }

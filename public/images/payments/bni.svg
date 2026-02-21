@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60">
+  <rect width="120" height="60" fill="#FF6600" rx="8"/>
+  <rect x="4" y="4" width="112" height="52" rx="6" fill="#FF7722"/>
+  <text x="60" y="28" font-family="Arial Black,sans-serif" font-size="20" font-weight="900" fill="white" text-anchor="middle">BNI</text>
+  <text x="60" y="48" font-family="Arial,sans-serif" font-size="9" fill="#ffe0cc" text-anchor="middle" letter-spacing="1">BANK NEGARA IND.</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60">
+  <rect width="120" height="60" fill="#C41230" rx="8"/>
+  <rect x="4" y="4" width="112" height="52" rx="6" fill="#D41440"/>
+  <text x="60" y="23" font-family="Arial Black,sans-serif" font-size="14" font-weight="900" fill="white" text-anchor="middle">CIMB</text>
+  <text x="60" y="38" font-family="Arial Black,sans-serif" font-size="11" font-weight="900" fill="#fca5a5" text-anchor="middle">NIAGA</text>
+  <text x="60" y="52" font-family="Arial,sans-serif" font-size="7" fill="#fecaca" text-anchor="middle" letter-spacing="1">VIRTUAL ACCOUNT</text>
+</svg>
